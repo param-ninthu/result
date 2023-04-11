@@ -1,0 +1,9 @@
+firebaseConfig = {
+  apiKey: "AIzaSyAEScirtnwr31EQhVqI2UoS9ERx_cDZStw",
+  authDomain: "resultsdashboard-68b8b.firebaseapp.com",
+  projectId: "resultsdashboard-68b8b",
+  storageBucket: "resultsdashboard-68b8b.appspot.com",
+  messagingSenderId: "340317342769",
+  appId: "1:340317342769:web:bd1baee313f565390c1910",
+  measurementId: "G-7D6W8QBEXY"
+};
