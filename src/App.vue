@@ -16,10 +16,10 @@ import HomeView from './views/HomeView.vue';
   font-family:"Rubik", sans-serif;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  background-color:#344D67;
   width: 100%;
   height: 100%;
+  background-image: url('./assets/herobg.png');
+  background-color: black; 
 }
   main{
     display: flex;
